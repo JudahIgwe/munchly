@@ -38,7 +38,7 @@ function BrowseMenu() {
                </div>
                <div className="p-4">
                   <h3 className="font-bold text-lg text-zinc-900 tracking-tight">
-                     Fried Rice & Salad
+                     Fried Rice & Salads and Chicken
                   </h3>
                   <p className="text-zinc-500 text-xs mt-1">
                      Tasty fried rice with fresh salad
